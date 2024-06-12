@@ -30,9 +30,6 @@ export default function Home() {
             With Nextjs, React, Honojs with CSV Upload (2024)
           </p>
           <h2>This is an Authenticated Route</h2>
-          <Button onClick = {onOpen}>
-            Add Account
-          </Button>
 
           {/* <div>
             <p>account list</p>

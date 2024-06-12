@@ -3,10 +3,9 @@
 import { useMountedState } from "react-use";
 
 import NewAccountSheet from "@/features/accounts/components/NewAccount";
+import EditAccountSheet from "@/features/accounts/components/EditAccount";
 
-type Props = {};
-
-export const SheetProvider = (props: Props) => {
+export const SheetProvider = () => {
 
   const isMounted = useMountedState();
 
@@ -15,6 +14,7 @@ export const SheetProvider = (props: Props) => {
   return (
     <div>
       <NewAccountSheet />
+      <EditAccountSheet />
     </div>
   );
 };

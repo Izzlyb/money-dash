@@ -7,6 +7,7 @@
 Code With Antonio
 
 YT Video : <https://www.youtube.com/watch?v=N_uNKAus0II&t=74s>
+Medium Kwok Article on Confirm Dialog: <https://medium.com/@kch062522/useconfirm-a-custom-react-hook-to-prompt-confirmation-before-action-f4cb746ebd4e>
 
 NOTE - NOTE - NOTE-------------------------------:
 NEED to use these specific versions:

@@ -29,6 +29,13 @@
       "when": 1717790876031,
       "tag": "0003_hot_wong",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1718140547139,
+      "tag": "0004_white_vindicator",
+      "breakpoints": true
     }
   ]
 }
