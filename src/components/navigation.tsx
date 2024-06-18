@@ -33,7 +33,6 @@ const routers = [
   },
 ]
 
-
 type Props = {};
 
 const Navigation = (props: Props) => {

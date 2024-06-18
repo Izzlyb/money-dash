@@ -5,36 +5,15 @@
     {
       "idx": 0,
       "version": "5",
-      "when": 1717783339087,
-      "tag": "0000_melted_menace",
+      "when": 1718205691256,
+      "tag": "0000_lethal_the_watchers",
       "breakpoints": true
     },
     {
       "idx": 1,
       "version": "5",
-      "when": 1717783427745,
-      "tag": "0001_abandoned_puppet_master",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "5",
-      "when": 1717783590077,
-      "tag": "0002_skinny_layla_miller",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "5",
-      "when": 1717790876031,
-      "tag": "0003_hot_wong",
-      "breakpoints": true
-    },
-    {
-      "idx": 4,
-      "version": "5",
-      "when": 1718140547139,
-      "tag": "0004_white_vindicator",
+      "when": 1718216304933,
+      "tag": "0001_magenta_wraith",
       "breakpoints": true
     }
   ]
